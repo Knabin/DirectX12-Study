@@ -1,4 +1,4 @@
-#include "pch.h"
+﻿#include "pch.h"
 #include "Game.h"
 
 void Game::Init()
@@ -8,4 +8,5 @@ void Game::Init()
 
 void Game::Update()
 {
+
 }
